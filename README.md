@@ -1,4 +1,7 @@
 # Blink Detection using CV2 and haarcascades
+## Libraries
+* cv2
+* numpy
 ## [PL]
 Prosty detektor mrugnięcia oczami w projekcie są dwa skrypty:
 
